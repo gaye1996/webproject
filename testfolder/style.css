@@ -1,0 +1,21 @@
+*{FONT-FAMILY:SANS-SERIF;
+    PADDING:0;}
+    
+    .skills{WIDTH:200PX;
+                MARGIN:60PX AUTO;
+                COLOR:WHITE;}
+                .bar{background:#353b48;
+                    display:block;
+                    height:2px;
+                    width:500px;
+                    border:1px solid rgba(0,0,0,0.3);
+                    border-radius:3px;
+                    overflow:hidden;
+                box-shadow: 0 0 10px #2187e7b3;}
+                .bar span{height:2px;
+                          float:left;
+                background:#2187e7;}
+                .PRODUCTION{width:90%;}
+                .RETAIL{width:50%;}
+                .DISTRIBUTION{width:25%;}
+                          
